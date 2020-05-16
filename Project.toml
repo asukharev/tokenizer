@@ -1,0 +1,13 @@
+name = "Tokenizer"
+uuid = "05c4614e-8f10-4a95-86d5-7a6ccdddd24e"
+authors = ["asukharev <asukharev@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+MLStyle = "d8e11817-5142-5d16-987a-aa16d5891078"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
